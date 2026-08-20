@@ -1,0 +1,6 @@
+[
+  "@prisma/client",
+  "pg",
+  "react",
+  "react-dom"
+]

@@ -1,0 +1,1 @@
+import{z as e}from"../../index.js";var t=e(()=>{throw Error(`Unexpectedly client reference export 'JavanehApp' is called on server`)},`4ca41a836b8c`,`JavanehApp`);export{t};
