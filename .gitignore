@@ -9,3 +9,4 @@ scripts
 tests
 admin
 dist
+.vercel
